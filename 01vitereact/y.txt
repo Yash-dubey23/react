@@ -1,0 +1,14 @@
+@Yash-dubey23 ➜ /workspaces/react (main) $ cd 01vitereact
+@Yash-dubey23 ➜ /workspaces/react/01vitereact (main) $ ls
+README.md         node_modules       public
+eslint.config.js  package-lock.json  src
+index.html        package.json       vite.config.js
+@Yash-dubey23 ➜ /workspaces/react/01vitereact (main) $ npm install
+
+added 2 packages, and audited 138 packages in 1s
+
+32 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+@Yash-dubey23 ➜ /workspaces/react/01vitereact (main) $ npm run dev
